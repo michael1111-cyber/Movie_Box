@@ -19,7 +19,6 @@ class MyApp extends StatelessWidget {
         // focusColor: ColorUtil.primaryColor
       ),
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
       home: const Screen(),
     );
   }

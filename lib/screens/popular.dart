@@ -18,6 +18,7 @@ class _PopularState extends State<Popular> {
         children: [
           Column(
             children: [
+              Text("this is a text"),
               Padding(
                 padding: const EdgeInsets.only(left: 3),
                 child: Row(
